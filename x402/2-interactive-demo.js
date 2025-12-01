@@ -29,8 +29,8 @@ function getAddressLink(address) {
 
 async function main() {
   console.clear();
-  console.log('🤖 Welcome to DeFi SIP Protocol!');
-  console.log('   Powered by AI Agents & x402 Payment Protocol\n');
+  console.log('🤖 Welcome to x402-ISP-AI Protocol!');
+  console.log('   DeFi SIP Powered by AI Agents & x402 Payment Protocol\n');
   console.log('='.repeat(60));
   console.log('\n');
 
