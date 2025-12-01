@@ -267,7 +267,7 @@ Example successful transaction: [View on BaseScan](https://sepolia.basescan.org/
 
 ## 🏆 ETHIndia Villa 2025
 
-**Built by:** [Om Santoshwar](https://github.com/omsant02)
+**Built by:** [Om Santoshwar](https://github.com/omsant02) , [Ayush Ranjan](https://github.com/ayush-ranjan-official) , [Thirumurugan Sivalingam](https://github.com/Thirumurugan7) , [Adithya](https://github.com/Adithya2310)
 
 **Tracks:**
 - x402 Protocol Integration
